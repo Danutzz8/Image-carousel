@@ -1,3 +1,3 @@
 # Image-carousel
 
-Simple image carousel but not swipe
+Simple image carousel but not swipe with JS
